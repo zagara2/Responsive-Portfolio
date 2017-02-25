@@ -234,40 +234,46 @@ input[type= submit] {
 	.main-section {
 
 		width: 50%;
-		margin-left: 9%
+		margin-left: 5%
 		
 	}
 
 	.sidebar{
 		
 		width: 75%;	
-		margin-right: 9%;
+		margin-right: 5%;
 		
 	}
 
 	#logo{
-		margin-left: 9%;
+		margin-left: 5%;
 	}
 
 	nav {
-		margin-right: 9%;
+		margin-right: 5%;
 	}
 
 }
 
-/*should we change font size? */
+/*should we change font size? also, should we make it so it holds this layout all the way down to 769px?*/
 
 
 
 
 @media screen and (max-width: 768px) {
 
+	.main-section {
+
+		margin-left: 5%;
+		margin-right: 5%;
+		width: 90%;
+
+		clear:both;
+	}
+
 	.sidebar{
-		
-		width: 150%;	
-		
-
-
+		width: 90%;
+		max-width:9999px;
 	}
 
 }
