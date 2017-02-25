@@ -254,6 +254,18 @@ input[type= submit] {
 		margin-right: 5%;
 	}
 
+	.work {
+		width:100%;
+		margin-top: 10px;
+		
+	}
+
+	.mickeypic {
+		width: 100%;
+		padding-bottom:10px;
+
+	}
+
 }
 
 /*should we change font size? also, should we make it so it holds this layout all the way down to 769px?*/
@@ -276,6 +288,20 @@ I don't think mine are changing because they are too small? should I get bigger 
 	.sidebar{
 		width: 90%;
 		max-width:9999px;
+	}
+
+	.work {
+	width: 45%;
+	overflow: auto;
+	position:relative;
+	float:left;
+	margin: 28px 0 25px;
+}
+
+.mickeypic {
+		width: auto;
+		padding-bottom:10px;
+
 	}
 
 }
@@ -324,6 +350,18 @@ I don't think mine are changing because they are too small? should I get bigger 
 
 	#main-container {
 		padding-top:0;
+	}
+
+	.work {
+		width:100%;
+		margin-top: 10px;
+		
+	}
+
+	.mickeypic {
+		width: 100%;
+		padding-bottom:10px;
+
 	}
 
 
