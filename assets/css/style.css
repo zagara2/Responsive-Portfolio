@@ -257,7 +257,10 @@ input[type= submit] {
 }
 
 /*should we change font size? also, should we make it so it holds this layout all the way down to 769px?*/
+/*should the images change size with the page? seems like, yes? 
+I don't think mine are changing because they are too small? should I get bigger ones?
 
+*/
 
 
 
@@ -322,6 +325,7 @@ input[type= submit] {
 	#main-container {
 		padding-top:0;
 	}
+
 
 }
 
