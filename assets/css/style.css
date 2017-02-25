@@ -242,6 +242,7 @@ input[type= submit] {
 		
 		width: 75%;	
 		margin-right: 5%;
+		margin-bottom:8%;
 		
 	}
 
@@ -267,8 +268,6 @@ input[type= submit] {
 		margin-left: 5%;
 		margin-right: 5%;
 		width: 90%;
-
-		clear:both;
 	}
 
 	.sidebar{
@@ -278,8 +277,51 @@ input[type= submit] {
 
 }
 
-/*
+
 @media screen and (max-width: 640px) {
 
+	#masthead {
+		position:static;
+	}
+
+	#logo {
+		width:100%;
+		margin: 0 auto;
+	}
+
+	nav {
+		width: 100%;
+		text-align:center;
+		margin:0 auto;
+
+	}
+
+	nav a {
+		margin:5%;
+
+	}
+
+	#indexlink {
+		margin-right:0;
+		padding:0;
+
+	}
+
+	#portfoliolink {
+		padding-left:7%;
+		margin-right:0;
+		
+	}
+
+	#contactlink {
+		
+		padding-left:7%;
+
+	}
+
+	#main-container {
+		padding-top:0;
+	}
+
 }
-*/
+
