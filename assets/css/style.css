@@ -229,3 +229,51 @@ input[type= submit] {
 
 }
 
+@media screen and (max-width: 980px) {
+
+	.main-section {
+
+		width: 50%;
+		margin-left: 9%
+		
+	}
+
+	.sidebar{
+		
+		width: 75%;	
+		margin-right: 9%;
+		
+	}
+
+	#logo{
+		margin-left: 9%;
+	}
+
+	nav {
+		margin-right: 9%;
+	}
+
+}
+
+/*should we change font size? */
+
+
+
+
+@media screen and (max-width: 768px) {
+
+	.sidebar{
+		
+		width: 150%;	
+		
+
+
+	}
+
+}
+
+/*
+@media screen and (max-width: 640px) {
+
+}
+*/
