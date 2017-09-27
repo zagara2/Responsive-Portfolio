@@ -113,6 +113,11 @@ nav a:first-child {
 	margin-top: 10px;
 	float: left;
 	margin-right: 25px;
+
+}
+
+h3 {
+	color:white;
 }
 
 /* sidebar */
@@ -149,6 +154,7 @@ a:-webkit-any-link {
     
     text-decoration: none;
     cursor: auto;
+    color:white;
 }
 
 /*footer*/
