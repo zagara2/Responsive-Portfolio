@@ -154,7 +154,7 @@ a:-webkit-any-link {
     
     text-decoration: none;
     cursor: auto;
-    color: white !important;
+    color: white;
 }
 
 /*footer*/
@@ -242,8 +242,12 @@ input[type= submit] {
 
 }
 
-a:-webkit-any-link {
+/*a:-webkit-any-link {
     color: white !important;
+}*/
+
+nav a {
+	color: #999 !important;
 }
 
 @media screen and (max-width: 980px) {
