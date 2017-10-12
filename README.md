@@ -8,6 +8,8 @@ The site is currently deployed at https://zagara2.github.io/Responsive-Portfolio
 ## Technologies Used
 * HTML5
 * CSS3
+* Javascript
+* JQuery
 
 ## Browser and Screen Compatibility
 
