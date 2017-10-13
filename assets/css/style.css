@@ -458,3 +458,10 @@ I don't think mine are changing because they are too small? should I get bigger 
 
 }
 
+@media screen and (max-width: 360px) {
+
+	.linkedin {
+		margin-left:10%;
+	}
+}
+
