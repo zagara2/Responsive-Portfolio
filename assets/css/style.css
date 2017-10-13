@@ -469,11 +469,12 @@ I don't think mine are changing because they are too small? should I get bigger 
 		margin-left:10%;
 	}
 
+}
 
 @media screen and (max-width: 310px) {
 
 	.linkedin {
-		margin-left:4%;
+		margin-left: 4%;
 	}
 }
 
