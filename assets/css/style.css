@@ -229,6 +229,11 @@ footer {
 	font-weight: 300;
 }
 
+.bar a {
+	color:white;
+	text-decoration:none;
+}
+
 /*contact*/
 
 #contact-form ul {
