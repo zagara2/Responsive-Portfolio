@@ -18,5 +18,5 @@ The site has been tested on Chrome, Firefox, and Internet Explorer. It works as 
 Plans to test on Safari are upcoming.
 
 ## Future Plans for Improvement
- * Contact form is a placeholder at the moment for when I will eventually set it up to forward messages to my email. for now, send messages to marimikaels@gmail.com instead of sending messages via the contact form.
+ * Contact form is a placeholder at the moment for when I will eventually set it up to forward messages to my email. For now, send messages to marimikaels@gmail.com instead of sending messages via the contact form.
 
